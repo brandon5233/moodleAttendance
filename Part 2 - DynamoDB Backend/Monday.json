@@ -1,0 +1,13 @@
+[
+    {
+        "lecture":"TNS",
+        "starttime":"10:00",
+        "endtime":"11:00"
+    },
+
+    {
+        "lecture":"NET",
+        "starttime":"13:00",
+        "endtime":"14:00"
+    }
+]
