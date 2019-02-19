@@ -15,4 +15,4 @@ Moodle is a popular open-source course management system used by 63k registered 
 This project adds location-based attendance-taking capabilities to moodle's attendance module. 
 Students use the Android application (frontend of this project) to log in to their moodle account and mark themselves present for a given lecture. It only works if they do so before the lecture ends, and they are within the college campus. 
 
-At the backend, the developed API accepts the request from the frontend, interfaces with Moodle, and marks the student present.    
+At the backend, the API I developed accepts the request from the frontend, interfaces with Moodle, and marks the student present.    
